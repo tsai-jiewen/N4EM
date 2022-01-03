@@ -22,4 +22,5 @@ IRT models are the core topics of the current notes, but it's still important to
 - IRT mixed model
 - CDM
 - Bayes net??
-- 
+- CAT
+- MST
