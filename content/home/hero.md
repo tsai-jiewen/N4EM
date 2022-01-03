@@ -28,6 +28,6 @@ Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
 Write something interesting about your project here.
 
-<a class="github-button" href="https://github.com/tsai-jiewen/N4EM/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Jack's N4EM</a>
+<a class="github-button" href="https://github.com/tsai-jiewen/N4EM/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Jack's N4EM</a><br>
 
 
