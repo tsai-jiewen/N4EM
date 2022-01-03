@@ -2,7 +2,7 @@
 title: Ideas of Notes
 linktitle: Ideas of Notes
 type: book
-date: "2022-01-04"
+date: "2022-01-03"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
