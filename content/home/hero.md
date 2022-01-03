@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: Jack's Notes for Educational Measurement (N4EM)
 hero_media: book.svg
 design:
   background:
@@ -12,11 +12,11 @@ design:
 cta:
   url: docs/
   label: Get Started
-  icon_pack: fas
-  icon: download
-cta_alt:
-  url: docs/
-  label: View Documentation
+  #icon_pack: fas
+  #icon: download
+#cta_alt:
+  #url: docs/
+  #label: View Documentation
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
