@@ -15,7 +15,8 @@ IRT models are the core topics of the current notes, but it's still important to
 
 - psychometric methods
 - computing and simulation
-- CFA?
+- SEM-CFA?
+- SEM-?
 - IRT-Rasch
 - IRT-PCM
 - IRT-MIRT
@@ -24,3 +25,4 @@ IRT models are the core topics of the current notes, but it's still important to
 - Bayes net??
 - CAT
 - MST
+- Knowledge Space Theory (KST)
