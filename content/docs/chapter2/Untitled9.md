@@ -4,11 +4,7 @@ title: My first blog post
 type: book
 ---
 
-<iframe
-       src="./Untitled9.ipynb"
-       width="90%"
-       height="1000px"
-       style="border:none;">
+```json
 
 {
   "nbformat": 4,
@@ -287,4 +283,4 @@ type: book
     }
   ]
 }
- </iframe>
+```
