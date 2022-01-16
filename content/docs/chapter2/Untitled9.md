@@ -4,7 +4,7 @@ title: My first blog post
 type: book
 ---
 
-```json
+
 
 {
   "nbformat": 4,
@@ -283,4 +283,4 @@ type: book
     }
   ]
 }
-```
+
